@@ -1,6 +1,6 @@
 /* ───
    Project: Secret Birthday Gift
-   Author: 
+   Author: @saklin_01
 ─── */
 
 /* ─── CLOCK DIAL TICKS & NUMERALS ─── */
